@@ -1,0 +1,10 @@
+tensorflow
+numpy
+opencv-python
+flask
+
+# PIL
+pillow 
+
+# for training
+scikit-learn
